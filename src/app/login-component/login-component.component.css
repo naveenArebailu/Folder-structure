@@ -1,0 +1,9 @@
+input {
+    width: 200px !important;
+    margin: 5px;
+}
+
+button {
+    width: 100px !important;
+    margin: 5px;
+}
